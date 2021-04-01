@@ -7,8 +7,6 @@
 </channel>
 </channels>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
 <channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]GAME DOS CLONES[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://www.arrobanerd.com.br/wp-content/uploads/2020/10/gamedosclones.jpg</thumbnail>
@@ -17,8 +15,6 @@
 <info>[COLOR red]|[/COLOR]- E se você pudesse conhecer não um, mas sete pretendentes que têm exatamente o seu tipo físico preferido? Com a ajuda de Sabrina Sato, dez pessoas terão essa oportunidade única! E precisarão ir além das aparências para encontrar seu par ideal no meio de sete clones. Em uma casa em que todo mundo tem o mesmo visual, o que vale é se destacar pela personalidade. Este é o Game dos Clones! -[COLOR white]|[/COLOR]</info>
 </channel>
 </channels>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]GREYS ANATOMY[/COLOR] [COLOR red]|[/COLOR]</name>
@@ -29,7 +25,14 @@
 </channel>
 </channels> 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]HAUNTED LATIN AMERICA[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABRFzejhxPTBWEIWChVIQOOKTCKTq_y871dLhiB-XXXHYGxQ0awI1nDgcV--X3V91nD1RsH8KfPXlP5p0pzPf7qDHtcjnt3kf5QVf8jZh1FRrVyHxBP4x396HB0BZXw.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/HAUNTED-LATIN-AMERICA</externallink>
+<fanart>https://bingeddata.s3.amazonaws.com/uploads/2021/03/haunted-latin-america-web-series-online-watch.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- Pessoas reais contam suas histórias de fantasmas nesta série de terror baseada em eventos reais que recria esses encontros com o sobrenatural e o paranormal. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
 
 <channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]HERNÁN[/COLOR] [COLOR red]|[/COLOR]</name>
